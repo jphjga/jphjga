@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                  ✨  Full-stack developer  ✨<br>                Skilled in React | Typescript | Tailwind CSS  | PostgreSQL<br><br>                  ✨ Open to both short-term and long-term projects<br><br>                           ✨ Freelancer             <br><br>                                        ✨lets connect✨
+✨  Full-stack developer  ✨<br><br>✨ Skilled in React | Typescript | Tailwind CSS  | PostgreSQL<br><br>✨ Open to both short-term and long-term projects<br><br> ✨ Freelancer             <br><br> ✨lets connect✨
 
 
 ## 🌐 Socials:
